@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ophanim</title>
+    <link>https://ophanim.io/</link>
+    <description>Recent content on Ophanim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 17 Jan 2019 14:17:11 -0600</lastBuildDate>
+    
+	<atom:link href="https://ophanim.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://ophanim.io/posts/first-post/</link>
+      <pubDate>Thu, 17 Jan 2019 14:17:11 -0600</pubDate>
+      
+      <guid>https://ophanim.io/posts/first-post/</guid>
+      <description>It&amp;rsquo;s been a long time since I had a format for sharing thoughts in long form; not since LiveJournal days.
+I miss it. I miss the luxury of words that haven&amp;rsquo;t been trimmed to unnatural shortness for the sole purpose of maximizing likability. I&amp;rsquo;m tired of working for free, sharing my integrity and authenticity for an abusive corporation&amp;rsquo;s profit.
+Watching a friend resume his own practice has inspired me to resume a long-form discipline of my own.</description>
+    </item>
+    
+  </channel>
+</rss>
